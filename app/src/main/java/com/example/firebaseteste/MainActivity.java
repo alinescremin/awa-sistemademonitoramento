@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
            // key_shared = preferences.getString("key", "zero");
         }
 
-        //referenciaUser.child(key_shared).child("TipoGas").setValue("P13");
+        //referenciaUser.child(key_shared).child("TipoGas").setValue("P13")
         //------------------------------
         recuperarDadosAjuste();
         firebase_date();
